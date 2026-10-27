@@ -28,7 +28,7 @@ Ce dépôt est un **sommaire éditorial**, pas un classement ni une étude scien
 | **MiniMax-M3.1-Flash** | Le Centième Feu | Hellfest | [Dépôt](https://github.com/Exywuu/Cfeu) · Démo non disponible |
 | **Grok 4.7** | Le Seuil | Shen Yun | [Dépôt](https://github.com/Exywuu/seuil) · Démo non disponible |
 
-*Les versions sont reprises des documentations des projets et des précisions du commanditaire. Manus 2.0 désigne la version de l’agent ; son modèle sous-jacent n’est pas identifié. La disponibilité des démos a été vérifiée le 27 octobre 2026.*
+*La disponibilité des démos a été vérifiée le 27 octobre 2026.*
 
 ## Les sept projets
 
@@ -105,7 +105,7 @@ Une célébration imaginaire en trois entrées : la Descente, les Archives de Mi
 Le projet explore une frontière imaginée entre le corps dansant et la peinture. Sept tableaux forment le parcours principal ; un atelier de tissus et de tempo offre une seconde lecture, complétée par un foyer pratique.
 
 ![Accueil du Seuil](https://raw.githubusercontent.com/Exywuu/seuil/main/screenshots/app-builder-built.png)
-*Capture du prototype final conservée dans le dépôt seuil ; version de Grok indiquée par le commanditaire.*
+*Capture du prototype final conservée dans le dépôt seuil.*
 
 [Voir le code et la démarche](https://github.com/Exywuu/seuil) · Démonstration publique non disponible lors de la vérification. Le projet utilise un rendu serveur et nécessite une adaptation avant un hébergement statique ; son README documente aussi les limites de compilation et de dépendances observées.
 
