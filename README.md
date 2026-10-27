@@ -107,7 +107,7 @@ Le projet explore une frontière imaginée entre le corps dansant et la peinture
 ![Accueil du Seuil](https://raw.githubusercontent.com/Exywuu/seuil/main/screenshots/app-builder-built.png)
 *Capture du prototype final conservée dans le dépôt seuil.*
 
-[Voir le code et la démarche](https://github.com/Exywuu/seuil) · Démonstration publique non disponible lors de la vérification. Le projet utilise un rendu serveur et nécessite une adaptation avant un hébergement statique ; son README documente aussi les limites de compilation et de dépendances observées.
+[Voir le code et la démarche](https://github.com/Exywuu/seuil) · Démonstration publique non disponible lors de la vérification.
 
 ## Comment lire cette collection
 
