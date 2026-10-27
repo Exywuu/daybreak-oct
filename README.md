@@ -6,7 +6,7 @@
 
 > **Ces projets sont des concepts indépendants et non officiels. Toutes les éditions anniversaires présentées sont fictives.** Aucun des prototypes n’a été commandé ou validé par les organisations dont il s’inspire. Les dates, lieux, programmes et billets imaginaires ne sont pas des annonces réelles.
 
-[Explorer les projets](#les-sept-projets) · [Comprendre le défi](#le-défi) · [Texte proposé pour X](PARTAGER.md)
+[Explorer les projets](#les-sept-projets) · [Comprendre le défi](#le-défi)
 
 ## Le défi
 
