@@ -25,7 +25,7 @@ Ce dépôt est un **sommaire éditorial**, pas un classement ni une étude scien
 | **GLM-5.3-Flash** | Le 20ᵉ Feu | Hellfest | [Dépôt](https://github.com/Exywuu/20Feu) · [Démo](https://exywuu.github.io/20Feu/) |
 | **Manus 2.0** | HORS TEMPS | Hellfest | [Dépôt](https://github.com/Exywuu/HTS) · [Démo](https://exywuu.github.io/HTS/) |
 | **DeepSeek V4.1 Flash** | Les Neuf Portes | Hellfest | [Dépôt](https://github.com/Exywuu/9P) · [Démo](https://exywuu.github.io/9P/) |
-| **MiniMax-M3.1-Flash** | Le Centième Feu | Hellfest | [Dépôt](https://github.com/Exywuu/Cfeu) · Démo non vérifiée |
+| **MiniMax-M3.1-Flash** | Le Centième Feu | Hellfest | [Dépôt](https://github.com/Exywuu/Cfeu) · Démo non disponible |
 | **Grok 4.7** | Le Seuil | Shen Yun | [Dépôt](https://github.com/Exywuu/seuil) · Démo non disponible |
 
 *Les versions sont reprises des documentations des projets et des précisions du commanditaire. Manus 2.0 désigne la version de l’agent ; son modèle sous-jacent n’est pas identifié. La disponibilité des démos a été vérifiée le 27 octobre 2026.*
@@ -96,7 +96,7 @@ Une célébration imaginaire en trois entrées : la Descente, les Archives de Mi
 ![Accueil du Centième Feu](https://raw.githubusercontent.com/Exywuu/Cfeu/main/docs/images/01-accueil-desktop.png)
 *Capture du prototype final, issue de la documentation du dépôt Cfeu.*
 
-[Voir le code et la démarche](https://github.com/Exywuu/Cfeu) · Démonstration non vérifiée au moment de la publication de cet index. Le site est dans le sous-dossier `hellfest-2027/`.
+[Voir le code et la démarche](https://github.com/Exywuu/Cfeu) · Démonstration publique non disponible lors de la vérification. Le site est dans le sous-dossier `hellfest-2027/`.
 
 ### 07 / Le Seuil
 
